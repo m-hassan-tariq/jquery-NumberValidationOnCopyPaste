@@ -1,0 +1,2 @@
+# jqueryNumberValidator
+You might have witness, at some places where numbers are allowed, paste feature doesn’t work either in IE or in Chrome/Firefox AND in some particular scenarios, paste feature worked fine in IE/Chrome but not in Firefox [ :X ] AND paste alphabets along numbers too in numbers only text field . After coding/debugging/testing, finally come up with below written code that totally runs smoothly even on IE 7.0 
